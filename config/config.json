@@ -1,0 +1,67 @@
+{
+    "root": "/home/sxk199/code/fair-rationales",
+    "data_dir": "/home/sxk199/code/fair-rationales/data",
+    "model_checkpoint": "/home/sxk199/experiments-output/fair-rationales",
+    "model_importance": "/home/sxk199/code/fair-rationales/model_results",
+    "sst_data": "/home/sxk199/code/fair-rationales/datasests/SST",
+    "dynasent_data": "/home/sxk199/code/fair-rationales/datasests/dynasent-v1.1",
+    "cose_data": "/home/sxk199/code/fair-rationales/datasests/cose",
+    "cose_simplified_data": "/home/sxk199/code/fair-rationales/datasests/cose_simplified",
+    "sst2_annotations": {
+        "root": "/home/sxk199/code/fair-rationales/data/SST",
+        "raw": [
+            "/home/sxk199/code/fair-rationales/data/SST/BO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/BY_all.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/LO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/LY_all.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/WO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/WY_all.csv"
+        ],
+        "processed": [
+            "/home/sxk199/code/fair-rationales/data/SST/BO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/BY_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/LO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/LY_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/WO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/SST/WY_processed.csv"
+        ]
+    },
+    "dynasent_annotations": {
+        "root": "/home/sxk199/code/fair-rationales/data/dynasent",
+        "raw": [
+            "/home/sxk199/code/fair-rationales/data/dynasent/BO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/BY_all.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/LO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/LY_all.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/WO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/WY_all.csv"
+        ],
+        "processed": [
+            "/home/sxk199/code/fair-rationales/data/dynasent/BO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/BY_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/LO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/LY_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/WO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/dynasent/WY_processed.csv"
+        ]
+    },
+    "cose_annotations": {
+        "root": "/home/sxk199/code/fair-rationales/data/cose",
+        "raw": [
+            "/home/sxk199/code/fair-rationales/data/cose/BO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/BY_all.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/LO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/LY_all.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/WO_all.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/WY_all.csv"
+        ],
+        "processed": [
+            "/home/sxk199/code/fair-rationales/data/cose/BO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/BY_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/LO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/LY_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/WO_processed.csv",
+            "/home/sxk199/code/fair-rationales/data/cose/WY_processed.csv"
+        ]
+    }
+}

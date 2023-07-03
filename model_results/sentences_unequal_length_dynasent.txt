@@ -1,0 +1,185 @@
+
+idx 42
+originaldata_id r2-0019311
+model ['great', 'falafel', 'and', 'lentil', 'soup', 'served', 'very', 'hot', 'exactly', 'the', 'way', 'we', "don't", 'like', 'it!']
+annot ['Great', 'falafel', 'and', 'lentil', 'soup', 'served', 'very', 'hot', 'exactly', 'the', 'way', 'we', "don't", 'like', 'it', '!']
+
+idx 45
+originaldata_id r2-0019315
+model ['you', 'will', 'avoid', 'the', '$12', 'delivery', 'fee,', 'and', 'the', 'slowness', 'of', 'the', 'whole', 'experience.', 'i', 'hate', 'slowness.']
+annot ['You', 'will', 'avoid', 'the', '$12', 'delivery', 'fee,', 'and', 'the', 'slowness', 'of', 'the', 'whole', 'experience.I', 'hate', 'slowness.']
+
+idx 70
+originaldata_id r2-0019349
+model ['my', 'boyfriend', 'had', 'sausage', 'and', 'omelet', 'with', 'chicken', 'that', 'was', 'on', 'par', 'with', 'something', 'that', 'you', 'would', 'get', 'at', 'a', 'hobees', '(california', 'breakfast', 'chain', ').', 'it', 'was', 'great.']
+annot ['My', 'boyfriend', 'had', 'sausage', 'and', 'omelet', 'with', 'chicken', 'that', 'was', 'on', 'par', 'with', 'something', 'that', 'you', 'would', 'get', 'at', 'a', 'Hobees', '(California', 'breakfast', 'chain).', 'It', 'was', 'great.']
+
+idx 71
+originaldata_id r2-0019354
+model ['neither', 'the', 'discount', 'section', 'nor', 'the', 'pharmacy', '/', 'drug', 'store', 'area', "had'em.", 'we', 'were', 'sad.']
+annot ['Neither', 'the', 'discount', 'section', 'nor', 'the', 'pharmacy/drug', 'store', 'area', 'had', "'em.", 'We', 'were', 'sad.']
+
+idx 81
+originaldata_id r2-0019373
+model ['it', 'was', 'one', 'h--', 'l', 'of', 'a', 'show!']
+annot ['It', 'was', 'one', 'h--l', 'of', 'a', 'show!']
+
+idx 88
+originaldata_id r2-0019385
+model ['i', "wasn't", 'impressed.', 'there', 'are', 'bright,', 'colorful,', 'easy-to', '-', 'read', 'menus', 'in', 'front', 'of', 'the', 'register', 'that', 'conveniently', 'detail', 'all', 'their', 'menu', 'items.']
+annot ['I', "wasn't", 'impressed.', 'There', 'are', 'bright,', 'colorful,', 'easy-to-read', 'menus', 'in', 'front', 'of', 'the', 'register', 'that', 'conveniently', 'detail', 'all', 'their', 'menu', 'items.']
+
+idx 89
+originaldata_id r2-0019386
+model ['what', 'a', 'delightful', 'little', 'tea', '/', 'dessert', 'spot.']
+annot ['What', 'a', 'delightful', 'little', 'tea/dessert', 'spot.']
+
+idx 98
+originaldata_id r2-0019403
+model ['good', 'value', 'low-brow', 'vegas', 'experience.,', 'it', 'was', 'amazing']
+annot ['Good', 'value', 'low-brow', 'Vegas', 'experience.,it', 'was', 'amazing']
+
+idx 114
+originaldata_id r2-0019429
+model ['i', 'was', 'told', 'i', 'had', 'to', 'drop', 'off', 'my', 'records', 'in', 'order', 'to', 'be', 'approved', 'as', 'a', 'patient....', 'fine,', 'no', 'problem.', 'it', 'was', 'fun', 'and', 'easy.']
+annot ['I', 'was', 'told', 'I', 'had', 'to', 'drop', 'off', 'my', 'records', 'in', 'order', 'to', 'be', 'approved', 'as', 'a', 'patient....fine,', 'no', 'problem.', 'It', 'was', 'fun', 'and', 'easy.']
+
+idx 132
+originaldata_id r2-0019456
+model ['one', 'critique:', 'the', 'girl', 'at', 'the', 'front', 'desk', '*', 'could', '*', 'be', 'a', 'little', 'more', 'friendly', 'and', 'knowledgeable', 'about', 'the', 'product', 'line.', 'she', 'needs', 'to', 'fix', 'up']
+annot ['One', 'critique:', 'the', 'girl', 'at', 'the', 'front', 'desk', '*could*', 'be', 'a', 'little', 'more', 'friendly', 'and', 'knowledgeable', 'about', 'the', 'product', 'line.', 'she', 'needs', 'to', 'fix', 'up']
+
+idx 133
+originaldata_id r2-0019457
+model ['if', "i'm", 'ever', 'back', 'in', 'the', 'phoenix', '/', 'scottsdale', 'area', "i'll", 'definitely', 'pay', 'it', 'a', 'visit', 'again.', 'love', 'it']
+annot ['If', "I'm", 'ever', 'back', 'in', 'the', 'Phoenix/Scottsdale', 'area', "I'll", 'definitely', 'pay', 'it', 'a', 'visit', 'again.', 'love', 'it']
+
+idx 153
+originaldata_id r2-0019481
+model ['if', 'the', 'front', 'of', 'the', 'house', 'represents', 'what', 'the', 'back', 'of', 'the', 'house', 'might', 'be.....', 'i', 'dunno.', 'it', 'must', 'suck', 'too.']
+annot ['If', 'the', 'front', 'of', 'the', 'house', 'represents', 'what', 'the', 'back', 'of', 'the', 'house', 'might', 'be.....I', 'dunno.', 'It', 'must', 'suck', 'too.']
+
+idx 159
+originaldata_id r2-0019490
+model ['they', 'charge', '$4.', '95', 'for', 'a', 'simple', 'car', 'wash', "that's", 'a', 'ridiculous', 'bargain', 'to', 'me', '(i', 'thought', 'because', "we're", 'in', 'a', 'desert', 'area...', 'will', 'it', 'cost', 'more?']
+annot ['They', 'charge', '$4.95', 'for', 'a', 'simple', 'car', 'wash', "that's", 'a', 'ridiculous', 'bargain', 'to', 'me', '(I', 'thought', 'because', "we're", 'in', 'a', 'desert', 'area...', 'will', 'it', 'cost', 'more?']
+
+idx 176
+originaldata_id r2-0019512
+model ['and', 'was', 'very', 'inexpensive...', 'about', '$3.', '90', 'for', 'one', 'rather', 'large', 'sausage.', 'i', 'am', 'sure', 'it', 'was', 'it', 'was', 'leftover', 'meat.']
+annot ['And', 'was', 'very', 'inexpensive...about', '$3.90', 'for', 'one', 'rather', 'large', 'sausage.', 'I', 'am', 'sure', 'it', 'was', 'it', 'was', 'leftover', 'meat.']
+
+idx 181
+originaldata_id r2-0019519
+model ['the', 'menu', 'describes', 'a', 'moist,', 'delicious,', 'and', 'savory', 'bone', 'in', 'rib-eye', '--i', 'wish', 'that', 'was', 'what', 'i', 'recieved!']
+annot ['The', 'menu', 'describes', 'a', 'moist,', 'delicious,', 'and', 'savory', 'bone', 'in', 'rib-eye--I', 'wish', 'that', 'was', 'what', 'I', 'recieved!']
+
+idx 182
+originaldata_id r2-0019520
+model ['the', 'rest', 'of', 'the', 'menu', 'will', 'cost', '4.', '95.', 'cheap', 'right?']
+annot ['The', 'rest', 'of', 'the', 'menu', 'will', 'cost', '4.95.', 'cheap', 'right?']
+
+idx 190
+originaldata_id r2-0019533
+model ['i', 'was', 'oh', 'so', 'thrilled', 'to', 'learn', 'that', 'i', 'had', 'paid', '$70.', '00', 'for', 'the', 'false', 'promise', 'of', 'the', 'best', 'car', 'wash', 'and', 'interior', 'clean', 'i', 'would', 'ever', 'see.']
+annot ['I', 'was', 'oh', 'so', 'thrilled', 'to', 'learn', 'that', 'I', 'had', 'paid', '$70.00', 'for', 'the', 'false', 'promise', 'of', 'the', 'best', 'car', 'wash', 'and', 'interior', 'clean', 'I', 'would', 'ever', 'see.']
+
+idx 215
+originaldata_id r2-0019568
+model ['i', 'understand', 'being', 'busy...', 'good', 'job']
+annot ['I', 'understand', 'being', 'busy...good', 'job']
+
+idx 227
+originaldata_id r2-0019585
+model ['i', 'waited...', 'waited...', 'waited', 'for', 'a', 'sales', 'person', 'to', 'help', 'me.']
+annot ['I', 'waited', '...', 'waited', '...', 'waited', 'for', 'a', 'sales', 'person', 'to', 'help', 'me.']
+
+idx 238
+originaldata_id r2-0019610
+model ['so', 'they', 'get', 'three', 'stars', 'because', 'of', 'poor', 'service', 'practice.', 'they', 'are', 'the', 'worst', 'place.', 'i', 'hate', 'them.']
+annot ['So', 'they', 'get', 'three', 'stars', 'because', 'of', 'poor', 'service', 'practice.They', 'are', 'the', 'worst', 'place.', 'I', 'hate', 'them.']
+
+idx 262
+originaldata_id r2-0019639
+model ['in-n', '-', 'out', 'burger', 'is', 'a', 'huge', 'letdown.']
+annot ['In-N-Out', 'Burger', 'is', 'a', 'huge', 'letdown.']
+
+idx 278
+originaldata_id r2-0019666
+model ['a', 'friend', 'and', 'i', 'went', 'on', 'a', 'thursday', 'evening', 'around', '730', '/', '8', 'pm', 'or', 'so', 'and', 'it', 'was', 'a', 'little', 'busy,', 'but', 'we', 'have', 'to', 'wait', 'at', 'all', 'for', 'a', 'table.']
+annot ['A', 'friend', 'and', 'I', 'went', 'on', 'a', 'Thursday', 'evening', 'around', '730/', '8', 'pm', 'or', 'so', 'and', 'it', 'was', 'a', 'little', 'busy,', 'but', 'we', 'have', 'to', 'wait', 'at', 'all', 'for', 'a', 'table.']
+
+idx 282
+originaldata_id r2-0019671
+model ['i', '’', 'm', 'supposed', 'to', 'be', 'full', 'off', 'of', 'that?']
+annot ['I’m', 'supposed', 'to', 'be', 'full', 'off', 'of', 'that?']
+
+idx 290
+originaldata_id r2-0019685
+model ['(it', 'had', 'a', 'pleasant', 'kick)', 'the', 'bar-b', '-', 'que', 'sauce', 'was', 'superb.']
+annot ['(It', 'had', 'a', 'pleasant', 'kick)', 'The', 'bar-b-que', 'sauce', 'was', 'superb.']
+
+idx 314
+originaldata_id r2-0019725
+model ["it's", 'easy', 'to', 'find', 'as', "it's", 'located', 'on', 'the', 'n', '/', 'e', 'side', 'of', 'washington', 'and', 'buffalo,', 'east', 'of', "lowe's", 'behind', 'mcdonalds.']
+annot ["It's", 'easy', 'to', 'find', 'as', "it's", 'located', 'on', 'the', 'N/E', 'side', 'of', 'Washington', 'and', 'Buffalo,', 'east', 'of', "Lowe's", 'behind', 'McDonalds.']
+
+idx 329
+originaldata_id r2-0019757
+model ['other', 'places,', 'giving', 'immune', 'shots', 'off', 'of', 'the', 'same', 'big', 'bottle...', 'no', 'special', 'mix', 'for', 'people.', 'that', 'seems', 'dangerous.']
+annot ['Other', 'places,', 'giving', 'immune', 'shots', 'off', 'of', 'the', 'same', 'big', 'bottle...no', 'special', 'mix', 'for', 'people.', 'That', 'seems', 'dangerous.']
+
+idx 348
+originaldata_id r2-0019782
+model ['big', 'boo', 'on', 'that...', 'i', 'needed', 'those', 'extra', '30', 'minutes!', 'it', 'sucked.']
+annot ['Big', 'boo', 'on', 'that...I', 'needed', 'those', 'extra', '30', 'minutes!', 'It', 'sucked.']
+
+idx 352
+originaldata_id r2-0019788
+model ['my', 'wife', 'ordered', 'pork', 'belly', 'but', 'they', "didn't", 'have', 'it', 'at', '8:', '00', 'on', 'a', 'saturday', 'and', 'there', "weren't", 'many', 'people.']
+annot ['My', 'wife', 'ordered', 'pork', 'belly', 'but', 'they', "didn't", 'have', 'it', 'at', '8:00', 'on', 'a', 'Saturday', 'and', 'there', "weren't", 'many', 'people.']
+
+idx 366
+originaldata_id r2-0019813
+model ['you', 'can', 'get', 'seemingly', "everything-i'm", 'sure', 'if', 'they', "don't", 'have', 'it,', 'they', 'know', 'about', 'it', 'and', 'could', 'get', 'it', 'for', 'you.', 'highly', 'recommend']
+annot ['You', 'can', 'get', 'seemingly', 'everything', '-', "I'm", 'sure', 'if', 'they', "don't", 'have', 'it,', 'they', 'know', 'about', 'it', 'and', 'could', 'get', 'it', 'for', 'you.', 'highly', 'recommend']
+
+idx 377
+originaldata_id r2-0019825
+model ['tried', 'a', 'new', 'place.', 'waited', '1.', '5', 'hours', 'to', 'get', 'served', 'hibachi.']
+annot ['Tried', 'a', 'new', 'place.', 'Waited', '1.5', 'hours', 'to', 'get', 'served', 'hibachi.']
+
+idx 394
+originaldata_id r2-0019850
+model ['the', 'restaurant', 'was', 'super', 'dirty', 'and', 'no', 'one', 'pick', 'up', 'the', 'plates', 'from', 'our', 'table', 'so', 'we', 'can', 'have', 'more', 'space', 'for', 'the', 'upcoming', 'food', '(see', 'my', 'photo', '(.', 'terrible', 'experience']
+annot ['The', 'restaurant', 'was', 'super', 'dirty', 'and', 'no', 'one', 'pick', 'up', 'the', 'plates', 'from', 'our', 'table', 'so', 'we', 'can', 'have', 'more', 'space', 'for', 'the', 'upcoming', 'food(see', 'my', 'photo(.', 'terrible', 'experience']
+
+idx 407
+originaldata_id r2-0019868
+model ['i', 'just', "can't", 'get', 'over', 'their', 'prices--', 'i', 'mean,', '5', 'bucks', 'for', '5', 'blouses', 'is', 'unbelievable.']
+annot ['I', 'just', "can't", 'get', 'over', 'their', 'prices', '--', 'I', 'mean,', '5', 'bucks', 'for', '5', 'blouses', 'is', 'unbelievable.']
+
+idx 452
+originaldata_id r2-0019932
+model ['there', 'was', 'mild', 'discomfort', 'but', 'i', 'kept', "thinking'this", 'will', 'go', 'quick,', 'my', 'feet', 'are', "waiting.'i", 'was', 'wrong.']
+annot ['There', 'was', 'mild', 'discomfort', 'but', 'I', 'kept', 'thinking', "'this", 'will', 'go', 'quick,', 'my', 'feet', 'are', "waiting.'", 'I', 'was', 'wrong.']
+
+idx 453
+originaldata_id r2-0019934
+model ['i', "didn't", 'mind', 'if', 'my', 'meat', 'patty', 'was', '1', '/', '2', 'the', 'size', 'in', 'the', 'end.', 'i', 'was', 'happy', 'wither', 'way.']
+annot ['I', "didn't", 'mind', 'if', 'my', 'meat', 'patty', 'was', '1/2', 'the', 'size', 'in', 'the', 'end.', 'I', 'was', 'happy', 'wither', 'way.']
+
+idx 466
+originaldata_id r2-0019950
+model ['i', 'would', 'give', 'it', 'five', 'stars...', 'if', 'the', 'stars', 'go', 'to', 'one', 'hundred.']
+annot ['I', 'would', 'give', 'it', 'five', 'stars', '...', 'if', 'the', 'stars', 'go', 'to', 'one', 'hundred.']
+
+idx 469
+originaldata_id r2-0019956
+model ['the', 'margarita', 'was', "served'long", "drink'fashion,", 'an', 'fyi', 'for', 'the', 'purists', 'out', 'there.', 'we', 'enjoyed', 'it']
+annot ['The', 'margarita', 'was', 'served', "'long", "drink'", 'fashion,', 'an', 'FYI', 'for', 'the', 'purists', 'out', 'there.', 'we', 'enjoyed', 'it']
+
+idx 473
+originaldata_id r2-0019962
+model ['i', 'think', 'the', 'first', 'time', 'it', 'was', 'a', 'three', 'star,', 'but', 'the', 'last', 'time', 'was', 'definitely', 'a', 'two--', 'maybe', 'even', 'a', 'one', 'and', 'a', 'half', 'star.', 'they', 'need', 'to', 'improve']
+annot ['I', 'think', 'the', 'first', 'time', 'it', 'was', 'a', 'three', 'star,', 'but', 'the', 'last', 'time', 'was', 'definitely', 'a', 'two--maybe', 'even', 'a', 'one', 'and', 'a', 'half', 'star.', 'they', 'need', 'to', 'improve']

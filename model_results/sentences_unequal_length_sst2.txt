@@ -1,0 +1,270 @@
+
+idx 7
+originaldata_id 91
+model ['an', 'inspiring', 'and', 'heart-affecting', 'film', 'about', 'the', 'desperate', 'attempts', 'of', 'vietnamese', 'refugees', 'living', 'in', 'u.', 's.', 'relocation', 'camps', 'to', 'keep', 'their', 'hopes', 'alive', 'in', '1975.']
+annot ['An', 'inspiring', 'and', 'heart-affecting', 'film', 'about', 'the', 'desperate', 'attempts', 'of', 'Vietnamese', 'refugees', 'living', 'in', 'U.S.', 'relocation', 'camps', 'to', 'keep', 'their', 'hopes', 'alive', 'in', '1975.']
+
+idx 11
+originaldata_id 190
+model ['men', 'in', 'black', 'ii', 'achieves', 'ultimate', 'insignificance--', "it's", 'the', 'sci-fi', 'comedy', 'spectacle', 'as', 'whiffle-ball', 'epic.']
+annot ['Men', 'in', 'Black', 'II', 'achieves', 'ultimate', 'insignificance', '--', "it's", 'the', 'sci-fi', 'comedy', 'spectacle', 'as', 'Whiffle-Ball', 'epic.']
+
+idx 30
+originaldata_id 441
+model ['it', 'is', 'intensely', 'personal', 'and', 'yet--', 'unlike', 'quills--', 'deftly', 'shows', 'us', 'the', 'temper', 'of', 'the', 'times.']
+annot ['It', 'is', 'intensely', 'personal', 'and', 'yet', '--', 'unlike', 'Quills', '--', 'deftly', 'shows', 'us', 'the', 'temper', 'of', 'the', 'times.']
+
+idx 31
+originaldata_id 458
+model ['featuring', 'a', 'dangerously', 'seductive', 'performance', 'from', 'the', 'great', 'daniel', 'auteuil,', '``', "sade''", 'covers', 'the', 'same', 'period', 'as', "kaufmann's", '``', "quills''", 'with', 'more', 'unsettlingly', 'realistic', 'results.']
+annot ['Featuring', 'a', 'dangerously', 'seductive', 'performance', 'from', 'the', 'great', 'Daniel', 'Auteuil,', "``Sade''", 'covers', 'the', 'same', 'period', 'as', "Kaufmann's", "``Quills''", 'with', 'more', 'unsettlingly', 'realistic', 'results.']
+
+idx 38
+originaldata_id 585
+model ['impresses', 'as', 'a', 'skillfully', 'assembled,', 'highly', 'polished', 'and', 'professional', 'adaptation...', 'just', 'about', 'as', 'chilling', 'and', 'unsettling', 'as', "`manhunter'was."]
+annot ['Impresses', 'as', 'a', 'skillfully', 'assembled,', 'highly', 'polished', 'and', 'professional', 'adaptation...', 'just', 'about', 'as', 'chilling', 'and', 'unsettling', 'as', "`Manhunter'", 'was.']
+
+idx 56
+originaldata_id 830
+model ['kirshner', 'and', 'monroe', 'seem', 'to', 'be', 'in', 'a', 'contest', 'to', 'see', 'who', 'can', 'out-bad', '-', 'act', 'the', 'other.']
+annot ['Kirshner', 'and', 'Monroe', 'seem', 'to', 'be', 'in', 'a', 'contest', 'to', 'see', 'who', 'can', 'out-bad-act', 'the', 'other.']
+
+idx 67
+originaldata_id 1092
+model ['as', 'written', 'by', 'michael', 'berg', 'and', 'michael', 'j.', 'wilson', 'from', 'a', 'story', 'by', 'wilson,', 'this', 'relentless,', 'all-wise', '-', 'guys-all', '-', 'the-time', 'approach', 'tries', 'way', 'too', 'hard', 'and', 'gets', 'tiring', 'in', 'no', 'time', 'at', 'all.']
+annot ['As', 'written', 'by', 'Michael', 'Berg', 'and', 'Michael', 'J.', 'Wilson', 'from', 'a', 'story', 'by', 'Wilson,', 'this', 'relentless,', 'all-wise-guys-all-the-time', 'approach', 'tries', 'way', 'too', 'hard', 'and', 'gets', 'tiring', 'in', 'no', 'time', 'at', 'all.']
+
+idx 69
+originaldata_id 1116
+model ['showtime', 'is', 'one', 'of', 'the', 'hapless', 'victims', 'of', 'the', 'arrogant', '``', 'if', 'we', 'put', 'together', 'a', 'wry', 'white', 'man', 'and', 'a', 'chatty', 'black', 'man', 'and', 'give', 'them', 'guns,', 'the', 'movie', 'will', 'be', "funny''", 'syndrome.']
+annot ['Showtime', 'is', 'one', 'of', 'the', 'hapless', 'victims', 'of', 'the', 'arrogant', '``if', 'we', 'put', 'together', 'a', 'wry', 'white', 'man', 'and', 'a', 'chatty', 'black', 'man', 'and', 'give', 'them', 'guns,', 'the', 'movie', 'will', 'be', "funny''", 'syndrome.']
+
+idx 74
+originaldata_id 1247
+model ['there', 'is', 'a', 'refreshing', 'absence', 'of', 'cynicism', 'in', 'stuart', 'little', '2--', 'quite', 'a', 'rarity,', 'even', 'in', 'the', 'family', 'film', 'market.']
+annot ['There', 'is', 'a', 'refreshing', 'absence', 'of', 'cynicism', 'in', 'Stuart', 'Little', '2', '--', 'quite', 'a', 'rarity,', 'even', 'in', 'the', 'family', 'film', 'market.']
+
+idx 76
+originaldata_id 1268
+model ["gollum's", "`performance'is", 'incredible!']
+annot ["Gollum's", "`performance'", 'is', 'incredible!']
+
+idx 78
+originaldata_id 1385
+model ['so', 'young,', 'so', 'smart,', 'such', 'talent,', 'such', 'a', 'wise', '*', '*', '*.']
+annot ['So', 'young,', 'so', 'smart,', 'such', 'talent,', 'such', 'a', 'wise', '***.']
+
+idx 80
+originaldata_id 1453
+model ['devos', 'and', 'cassel', 'have', 'tremendous', 'chemistry--', 'their', 'sexual', 'and', 'romantic', 'tension,', 'while', 'never', 'really', 'vocalized,', 'is', 'palpable.']
+annot ['Devos', 'and', 'Cassel', 'have', 'tremendous', 'chemistry', '--', 'their', 'sexual', 'and', 'romantic', 'tension,', 'while', 'never', 'really', 'vocalized,', 'is', 'palpable.']
+
+idx 83
+originaldata_id 1537
+model ['this', 'bold', 'and', 'lyrical', 'first', 'feature', 'from', 'raja', 'amari', 'expands', 'the', 'pat', 'notion', 'that', 'middle-aged', 'women', 'just', 'wan', 'na', 'have', 'fun', 'into', 'a', 'rousing', 'treatise', 'of', 'sensual', 'empowerment.']
+annot ['This', 'bold', 'and', 'lyrical', 'first', 'feature', 'from', 'Raja', 'Amari', 'expands', 'the', 'pat', 'notion', 'that', 'middle-aged', 'women', 'just', 'wanna', 'have', 'fun', 'into', 'a', 'rousing', 'treatise', 'of', 'sensual', 'empowerment.']
+
+idx 85
+originaldata_id 1615
+model ['the', 'acting', 'is', 'stiff,', 'the', 'story', 'lacks', 'all', 'trace', 'of', 'wit,', 'the', 'sets', 'look', 'like', 'they', 'were', 'borrowed', 'from', "gilligan's", 'island--', 'and', 'the', 'cgi', 'scooby', 'might', 'well', 'be', 'the', 'worst', 'special-effects', 'creation', 'of', 'the', 'year.']
+annot ['The', 'acting', 'is', 'stiff,', 'the', 'story', 'lacks', 'all', 'trace', 'of', 'wit,', 'the', 'sets', 'look', 'like', 'they', 'were', 'borrowed', 'from', "Gilligan's", 'Island', '--', 'and', 'the', 'CGI', 'Scooby', 'might', 'well', 'be', 'the', 'worst', 'special-effects', 'creation', 'of', 'the', 'year.']
+
+idx 89
+originaldata_id 1730
+model ['the', 'way', 'coppola', 'professes', 'his', 'love', 'for', 'movies--', 'both', 'colorful', 'pop', 'junk', 'and', 'the', 'classics', 'that', 'unequivocally', 'qualify', 'as', 'art--', 'is', 'giddily', 'entertaining.']
+annot ['The', 'way', 'Coppola', 'professes', 'his', 'love', 'for', 'movies', '--', 'both', 'colorful', 'pop', 'junk', 'and', 'the', 'classics', 'that', 'unequivocally', 'qualify', 'as', 'art', '--', 'is', 'giddily', 'entertaining.']
+
+idx 92
+originaldata_id 1761
+model ['why', 'he', 'was', 'given', 'free', 'reign', 'over', 'this', 'project--', 'he', 'wrote,', 'directed,', 'starred', 'and', 'produced--', 'is', 'beyond', 'me.']
+annot ['Why', 'he', 'was', 'given', 'free', 'reign', 'over', 'this', 'project', '--', 'he', 'wrote,', 'directed,', 'starred', 'and', 'produced', '--', 'is', 'beyond', 'me.']
+
+idx 95
+originaldata_id 2018
+model ['in', 'xxx,', 'diesel', 'is', 'that', 'rare', 'creature--', 'an', 'action', 'hero', 'with', 'table', 'manners,', 'and', 'one', 'who', 'proves', 'that', 'elegance', 'is', 'more', 'than', 'tattoo', 'deep.']
+annot ['In', 'XXX,', 'Diesel', 'is', 'that', 'rare', 'creature', '--', 'an', 'action', 'hero', 'with', 'table', 'manners,', 'and', 'one', 'who', 'proves', 'that', 'elegance', 'is', 'more', 'than', 'tattoo', 'deep.']
+
+idx 102
+originaldata_id 4176
+model ['men', 'in', 'black', 'ii', 'achieves', 'ultimate', 'insignificance--', "it's", 'the', 'sci-fi', 'comedy', 'spectacle', 'as', 'whiffle-ball', 'epic']
+annot ['Men', 'in', 'Black', 'II', 'achieves', 'ultimate', 'insignificance', '--', "it's", 'the', 'sci-fi', 'comedy', 'spectacle', 'as', 'Whiffle-Ball', 'epic.']
+
+idx 119
+originaldata_id 8193
+model ['``', "simone''", 'is', 'a', 'fun', 'and', 'funky', 'look', 'into', 'an', 'artificial', 'creation', 'in', 'a', 'world', 'that', 'thrives', 'on', 'artificiality.']
+annot ["``Simone''", 'is', 'a', 'fun', 'and', 'funky', 'look', 'into', 'an', 'artificial', 'creation', 'in', 'a', 'world', 'that', 'thrives', 'on', 'artificiality.']
+
+idx 133
+originaldata_id 13621
+model ['in', 'addition', 'to', 'scoring', 'high', 'for', 'originality', 'of', 'plot--', 'putting', 'together', 'familiar', 'themes', 'of', 'family,', 'forgiveness', 'and', 'love', 'in', 'a', 'new', 'way--', 'lilo', '&', 'stitch', 'has', 'a', 'number', 'of', 'other', 'assets', 'to', 'commend', 'it', 'to', 'movie', 'audiences', 'both', 'innocent', 'and', 'jaded.']
+annot ['In', 'addition', 'to', 'scoring', 'high', 'for', 'originality', 'of', 'plot', '--', 'putting', 'together', 'familiar', 'themes', 'of', 'family,', 'forgiveness', 'and', 'love', 'in', 'a', 'new', 'way', '--', 'Lilo', '&', 'Stitch', 'has', 'a', 'number', 'of', 'other', 'assets', 'to', 'commend', 'it', 'to', 'movie', 'audiences', 'both', 'innocent', 'and', 'jaded.']
+
+idx 143
+originaldata_id 16421
+model ['it', 'is', 'supremely', 'unfunny', 'and', 'unentertaining', 'to', 'watch', 'middle-age', 'and', 'older', 'men', 'drink', 'to', 'excess,', 'piss', 'on', 'trees,', 'b.', 's.', 'one', 'another', 'and', 'put', 'on', 'a', 'show', 'in', 'drag']
+annot ['It', 'is', 'supremely', 'unfunny', 'and', 'unentertaining', 'to', 'watch', 'middle-age', 'and', 'older', 'men', 'drink', 'to', 'excess,', 'piss', 'on', 'trees,', 'b.s.', 'one', 'another', 'and', 'put', 'on', 'a', 'show', 'in', 'drag.']
+
+idx 144
+originaldata_id 16890
+model ['a', 'plotline', "that's", 'as', 'lumpy', 'as', 'two-day', 'old', 'porridge...', 'the', "filmmakers'paws,", 'sad', 'to', 'say,', 'were', 'all', 'over', 'this', '``', 'un-bear', '-', "able''", 'project']
+annot ['...', 'a', 'plotline', "that's", 'as', 'lumpy', 'as', 'two-day', 'old', 'porridge...', 'the', "filmmakers'", 'paws,', 'sad', 'to', 'say,', 'were', 'all', 'over', 'this', "``un-bear-able''", 'project!']
+
+idx 148
+originaldata_id 18114
+model ["it's", 'a', 'head-turner', '--thoughtfully', 'written,', 'beautifully', 'read', 'and,', 'finally,', 'deeply', 'humanizing.']
+annot ["It's", 'a', 'head-turner', '--', 'thoughtfully', 'written,', 'beautifully', 'read', 'and,', 'finally,', 'deeply', 'humanizing.']
+
+idx 154
+originaldata_id 22787
+model ['a', 'plotline', "that's", 'as', 'lumpy', 'as', 'two-day', 'old', 'porridge...', 'the', "filmmakers'paws,", 'sad', 'to', 'say,', 'were', 'all', 'over', 'this', '``', 'un-bear', '-', "able''", 'project!']
+annot ['...', 'a', 'plotline', "that's", 'as', 'lumpy', 'as', 'two-day', 'old', 'porridge...', 'the', "filmmakers'", 'paws,', 'sad', 'to', 'say,', 'were', 'all', 'over', 'this', "``un-bear-able''", 'project!']
+
+idx 165
+originaldata_id 25097
+model ['co-writer', '/', 'director', 'jonathan', "parker's", 'attempts', 'to', 'fashion', 'a', 'brazil-like,', 'hyper-real', 'satire', 'fall', 'dreadfully', 'short.']
+annot ['Co-writer/director', 'Jonathan', "Parker's", 'attempts', 'to', 'fashion', 'a', 'Brazil-like,', 'hyper-real', 'satire', 'fall', 'dreadfully', 'short.']
+
+idx 170
+originaldata_id 26550
+model ['devos', 'and', 'cassel', 'have', 'tremendous', 'chemistry--', 'their', 'sexual', 'and', 'romantic', 'tension,', 'while', 'never', 'really', 'vocalized,', 'is', 'palpable']
+annot ['Devos', 'and', 'Cassel', 'have', 'tremendous', 'chemistry', '--', 'their', 'sexual', 'and', 'romantic', 'tension,', 'while', 'never', 'really', 'vocalized,', 'is', 'palpable.']
+
+idx 177
+originaldata_id 28089
+model ['a', 'bland', 'murder-on', '-', 'campus', 'yawner.']
+annot ['...', 'a', 'bland', 'murder-on-campus', 'yawner.']
+
+idx 178
+originaldata_id 28444
+model ['a', 'thoroughly', 'awful', 'movie--', 'dumb,', 'narratively', 'chaotic,', 'visually', 'sloppy...', 'a', 'weird', 'amalgam', 'of', '`the', "thing'and", 'a', 'geriatric', "`scream.'"]
+annot ['A', 'thoroughly', 'awful', 'movie', '--', 'dumb,', 'narratively', 'chaotic,', 'visually', 'sloppy...', 'a', 'weird', 'amalgam', 'of', '`The', "Thing'", 'and', 'a', 'geriatric', "`Scream.'"]
+
+idx 187
+originaldata_id 32055
+model ['after', 'sitting', 'through', 'this', 'sloppy,', 'made-for', '-', 'movie', 'comedy', 'special,', 'it', 'makes', 'me', 'wonder', 'if', 'lawrence', 'hates', 'criticism', 'so', 'much', 'that', 'he', 'refuses', 'to', 'evaluate', 'his', 'own', 'work.']
+annot ['After', 'sitting', 'through', 'this', 'sloppy,', 'made-for-movie', 'comedy', 'special,', 'it', 'makes', 'me', 'wonder', 'if', 'Lawrence', 'hates', 'criticism', 'so', 'much', 'that', 'he', 'refuses', 'to', 'evaluate', 'his', 'own', 'work.']
+
+idx 193
+originaldata_id 33824
+model ['...', 'a', 'bland', 'murder-on', '-', 'campus', 'yawner.']
+annot ['...', 'a', 'bland', 'murder-on-campus', 'yawner.']
+
+idx 198
+originaldata_id 36879
+model ['the', 'film', 'rehashes', 'several', 'old', 'themes', 'and', 'is', 'capped', 'with', 'pointless', 'extremes--', "it's", 'insanely', 'violent', 'and', 'very', 'graphic.']
+annot ['The', 'film', 'rehashes', 'several', 'old', 'themes', 'and', 'is', 'capped', 'with', 'pointless', 'extremes', '--', "it's", 'insanely', 'violent', 'and', 'very', 'graphic.']
+
+idx 203
+originaldata_id 38498
+model ['this', 'odd,', 'poetic', 'road', 'movie,', 'spiked', 'by', 'jolts', 'of', 'pop', 'music,', 'pretty', 'much', 'takes', 'place', 'in', "morton's", 'ever-watchful', 'gaze--', 'and', "it's", 'a', 'tribute', 'to', 'the', 'actress,', 'and', 'to', 'her', 'inventive', 'director,', 'that', 'the', 'journey', 'is', 'such', 'a', 'mesmerizing', 'one.']
+annot ['This', 'odd,', 'poetic', 'road', 'movie,', 'spiked', 'by', 'jolts', 'of', 'pop', 'music,', 'pretty', 'much', 'takes', 'place', 'in', "Morton's", 'ever-watchful', 'gaze', '--', 'and', "it's", 'a', 'tribute', 'to', 'the', 'actress,', 'and', 'to', 'her', 'inventive', 'director,', 'that', 'the', 'journey', 'is', 'such', 'a', 'mesmerizing', 'one.']
+
+idx 211
+originaldata_id 39868
+model ['this', 'hastily', 'mounted', 'production', 'exists', 'only', 'to', 'capitalize', 'on', "hopkins'inclination", 'to', 'play', 'hannibal', 'lecter', 'again,', 'even', 'though', 'harris', 'has', 'no', 'immediate', 'inclination', 'to', 'provide', 'a', 'fourth', 'book.']
+annot ['This', 'hastily', 'mounted', 'production', 'exists', 'only', 'to', 'capitalize', 'on', "Hopkins'", 'inclination', 'to', 'play', 'Hannibal', 'Lecter', 'again,', 'even', 'though', 'Harris', 'has', 'no', 'immediate', 'inclination', 'to', 'provide', 'a', 'fourth', 'book.']
+
+idx 214
+originaldata_id 40598
+model ["it's", 'anchored', 'by', 'splendid', 'performances', 'from', 'an', 'honored', 'screen', 'veteran', 'and', 'a', 'sparkling', 'newcomer', 'who', 'instantly', 'transform', 'themselves', 'into', 'a', 'believable', 'mother', '/', 'daughter', 'pair.']
+annot ["It's", 'anchored', 'by', 'splendid', 'performances', 'from', 'an', 'honored', 'screen', 'veteran', 'and', 'a', 'sparkling', 'newcomer', 'who', 'instantly', 'transform', 'themselves', 'into', 'a', 'believable', 'mother/daughter', 'pair.']
+
+idx 223
+originaldata_id 43065
+model ['it', 'is', 'supremely', 'unfunny', 'and', 'unentertaining', 'to', 'watch', 'middle-age', 'and', 'older', 'men', 'drink', 'to', 'excess,', 'piss', 'on', 'trees,', 'b.', 's.', 'one', 'another', 'and', 'put', 'on', 'a', 'show', 'in', 'drag.']
+annot ['It', 'is', 'supremely', 'unfunny', 'and', 'unentertaining', 'to', 'watch', 'middle-age', 'and', 'older', 'men', 'drink', 'to', 'excess,', 'piss', 'on', 'trees,', 'b.s.', 'one', 'another', 'and', 'put', 'on', 'a', 'show', 'in', 'drag.']
+
+idx 229
+originaldata_id 43764
+model ['...', 'a', 'plotline', "that's", 'as', 'lumpy', 'as', 'two-day', 'old', 'porridge...', 'the', "filmmakers'paws,", 'sad', 'to', 'say,', 'were', 'all', 'over', 'this', '``', 'un-bear', '-', "able''", 'project!']
+annot ['...', 'a', 'plotline', "that's", 'as', 'lumpy', 'as', 'two-day', 'old', 'porridge...', 'the', "filmmakers'", 'paws,', 'sad', 'to', 'say,', 'were', 'all', 'over', 'this', "``un-bear-able''", 'project!']
+
+idx 233
+originaldata_id 44292
+model ['a', 'first-class,', 'thoroughly', 'involving', 'b', 'movie', 'that', 'effectively', 'combines', 'two', 'surefire,', 'beloved', 'genres--', 'the', 'prison', 'flick', 'and', 'the', 'fight', 'film']
+annot ['A', 'first-class,', 'thoroughly', 'involving', 'B', 'movie', 'that', 'effectively', 'combines', 'two', 'surefire,', 'beloved', 'genres', '--', 'the', 'prison', 'flick', 'and', 'the', 'fight', 'film.']
+
+idx 240
+originaldata_id 46354
+model ['a', 'zombie', 'movie', 'in', 'every', 'sense', 'of', 'the', 'word--', 'mindless,', 'lifeless,', 'meandering,', 'loud,', 'painful,', 'obnoxious']
+annot ['A', 'zombie', 'movie', 'in', 'every', 'sense', 'of', 'the', 'word', '--', 'mindless,', 'lifeless,', 'meandering,', 'loud,', 'painful,', 'obnoxious.']
+
+idx 245
+originaldata_id 48248
+model ['adam', "sandler's", 'eight', 'crazy', 'nights', 'grows', 'on', 'you--', 'like', 'a', 'rash.']
+annot ['Adam', "Sandler's", 'Eight', 'Crazy', 'Nights', 'grows', 'on', 'you', '--', 'like', 'a', 'rash.']
+
+idx 246
+originaldata_id 48344
+model ['it', "isn't", 'that', 'stealing', 'harvard', 'is', 'a', 'horrible', 'movie--', 'if', 'only', 'it', 'were', 'that', 'grand', 'a', 'failure!']
+annot ['It', "isn't", 'that', 'Stealing', 'Harvard', 'is', 'a', 'horrible', 'movie', '--', 'if', 'only', 'it', 'were', 'that', 'grand', 'a', 'failure!']
+
+idx 247
+originaldata_id 48377
+model ['a', 'first-class,', 'thoroughly', 'involving', 'b', 'movie', 'that', 'effectively', 'combines', 'two', 'surefire,', 'beloved', 'genres--', 'the', 'prison', 'flick', 'and', 'the', 'fight', 'film.']
+annot ['A', 'first-class,', 'thoroughly', 'involving', 'B', 'movie', 'that', 'effectively', 'combines', 'two', 'surefire,', 'beloved', 'genres', '--', 'the', 'prison', 'flick', 'and', 'the', 'fight', 'film.']
+
+idx 250
+originaldata_id 49464
+model ['thanks', 'largely', 'to', 'williams,', 'all', 'the', 'interesting', 'developments', 'are', 'processed', 'in', '60', 'minutes--', 'the', 'rest', 'is', 'just', 'an', 'overexposed', 'waste', 'of', 'film']
+annot ['Thanks', 'largely', 'to', 'Williams,', 'all', 'the', 'interesting', 'developments', 'are', 'processed', 'in', '60', 'minutes', '--', 'the', 'rest', 'is', 'just', 'an', 'overexposed', 'waste', 'of', 'film.']
+
+idx 251
+originaldata_id 49838
+model ['this', 'odd,', 'poetic', 'road', 'movie,', 'spiked', 'by', 'jolts', 'of', 'pop', 'music,', 'pretty', 'much', 'takes', 'place', 'in', "morton's", 'ever-watchful', 'gaze--', 'and', "it's", 'a', 'tribute', 'to', 'the', 'actress,', 'and', 'to', 'her', 'inventive', 'director,', 'that', 'the', 'journey', 'is', 'such', 'a', 'mesmerizing', 'one']
+annot ['This', 'odd,', 'poetic', 'road', 'movie,', 'spiked', 'by', 'jolts', 'of', 'pop', 'music,', 'pretty', 'much', 'takes', 'place', 'in', "Morton's", 'ever-watchful', 'gaze', '--', 'and', "it's", 'a', 'tribute', 'to', 'the', 'actress,', 'and', 'to', 'her', 'inventive', 'director,', 'that', 'the', 'journey', 'is', 'such', 'a', 'mesmerizing', 'one.']
+
+idx 260
+originaldata_id 51076
+model ['as', 'a', 'girl-meets', '-', 'girl', 'romantic', 'comedy,', 'kissing', 'jessica', 'steinis', 'quirky,', 'charming', 'and', 'often', 'hilarious.']
+annot ['As', 'a', 'girl-meets-girl', 'romantic', 'comedy,', 'Kissing', 'Jessica', 'Steinis', 'quirky,', 'charming', 'and', 'often', 'hilarious.']
+
+idx 265
+originaldata_id 54007
+model ['the', 'only', 'entertainment', "you'll", 'derive', 'from', 'this', 'choppy', 'and', 'sloppy', 'affair', 'will', 'be', 'from', 'unintentional', 'giggles--', 'several', 'of', 'them.']
+annot ['The', 'only', 'entertainment', "you'll", 'derive', 'from', 'this', 'choppy', 'and', 'sloppy', 'affair', 'will', 'be', 'from', 'unintentional', 'giggles', '--', 'several', 'of', 'them.']
+
+idx 285
+originaldata_id 59503
+model ['thanks', 'largely', 'to', 'williams,', 'all', 'the', 'interesting', 'developments', 'are', 'processed', 'in', '60', 'minutes--', 'the', 'rest', 'is', 'just', 'an', 'overexposed', 'waste', 'of', 'film.']
+annot ['Thanks', 'largely', 'to', 'Williams,', 'all', 'the', 'interesting', 'developments', 'are', 'processed', 'in', '60', 'minutes', '--', 'the', 'rest', 'is', 'just', 'an', 'overexposed', 'waste', 'of', 'film.']
+
+idx 292
+originaldata_id 60861
+model ['stitch', 'is', 'a', 'bad', 'mannered,', 'ugly', 'and', 'destructive', 'little', '*', '*', '*', '*.']
+annot ['Stitch', 'is', 'a', 'bad', 'mannered,', 'ugly', 'and', 'destructive', 'little', '****.']
+
+idx 293
+originaldata_id 61424
+model ['the', 'movie', 'is', 'virtually', 'without', 'context--', 'journalistic', 'or', 'historical.']
+annot ['The', 'movie', 'is', 'virtually', 'without', 'context', '--', 'journalistic', 'or', 'historical.']
+
+idx 294
+originaldata_id 61907
+model ['most', 'haunting', 'about', '``', "fence''", 'is', 'its', 'conclusion,', 'when', 'we', 'hear', 'the', 'ultimate', 'fate', 'of', 'these', 'girls', 'and', 'realize,', 'much', 'to', 'our', 'dismay,', 'that', 'this', 'really', 'did', 'happen.']
+annot ['Most', 'haunting', 'about', "``Fence''", 'is', 'its', 'conclusion,', 'when', 'we', 'hear', 'the', 'ultimate', 'fate', 'of', 'these', 'girls', 'and', 'realize,', 'much', 'to', 'our', 'dismay,', 'that', 'this', 'really', 'did', 'happen.']
+
+idx 297
+originaldata_id 63203
+model ['an', 'action', '/', 'thriller', 'of', 'the', 'finest', 'kind,', 'evoking', 'memories', 'of', 'day', 'of', 'the', 'jackal,', 'the', 'french', 'connection,', 'and', 'heat.']
+annot ['An', 'action/thriller', 'of', 'the', 'finest', 'kind,', 'evoking', 'memories', 'of', 'Day', 'of', 'the', 'Jackal,', 'The', 'French', 'Connection,', 'and', 'Heat.']
+
+idx 298
+originaldata_id 63448
+model ['a', 'zombie', 'movie', 'in', 'every', 'sense', 'of', 'the', 'word--', 'mindless,', 'lifeless,', 'meandering,', 'loud,', 'painful,', 'obnoxious.']
+annot ['A', 'zombie', 'movie', 'in', 'every', 'sense', 'of', 'the', 'word', '--', 'mindless,', 'lifeless,', 'meandering,', 'loud,', 'painful,', 'obnoxious.']
+
+idx 302
+originaldata_id 65249
+model ['the', 'film', 'rehashes', 'several', 'old', 'themes', 'and', 'is', 'capped', 'with', 'pointless', 'extremes--', "it's", 'insanely', 'violent', 'and', 'very', 'graphic']
+annot ['The', 'film', 'rehashes', 'several', 'old', 'themes', 'and', 'is', 'capped', 'with', 'pointless', 'extremes', '--', "it's", 'insanely', 'violent', 'and', 'very', 'graphic.']
+
+idx 309
+originaldata_id 66456
+model ['methodical,', 'measured,', 'and', 'gently', 'tedious', 'in', 'its', 'comedy,', 'secret', 'ballot', 'is', 'a', 'purposefully', 'reductive', 'movie--', 'which', 'may', 'be', 'why', "it's", 'so', 'successful', 'at', 'lodging', 'itself', 'in', 'the', 'brain.']
+annot ['Methodical,', 'measured,', 'and', 'gently', 'tedious', 'in', 'its', 'comedy,', 'Secret', 'Ballot', 'is', 'a', 'purposefully', 'reductive', 'movie', '--', 'which', 'may', 'be', 'why', "it's", 'so', 'successful', 'at', 'lodging', 'itself', 'in', 'the', 'brain.']
+
+idx 310
+originaldata_id 66469
+model ['the', 'film', 'just', 'might', 'turn', 'on', 'many', 'people', 'to', 'opera,', 'in', 'general,', 'an', 'art', 'form', 'at', 'once', 'visceral', 'and', 'spiritual,', 'wonderfully', 'vulgar', 'and', 'sublimely', 'lofty--', 'and', 'as', 'emotionally', 'grand', 'as', 'life.']
+annot ['The', 'film', 'just', 'might', 'turn', 'on', 'many', 'people', 'to', 'opera,', 'in', 'general,', 'an', 'art', 'form', 'at', 'once', 'visceral', 'and', 'spiritual,', 'wonderfully', 'vulgar', 'and', 'sublimely', 'lofty', '--', 'and', 'as', 'emotionally', 'grand', 'as', 'life.']
