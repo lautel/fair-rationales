@@ -6,6 +6,9 @@ We provide the code for reproducing our results, preprocessed data and fine-tune
 
 The data from our surveys can be found [here](https://github.com/terne/Being_Right_for_Whose_Right_Reasons).
 
+## News
+
+* 10-2023: Now the data is also available in [Huggingface](https://huggingface.co/datasets/coastalcph/fair-rationales)
 
 ## Repository Setup
 
